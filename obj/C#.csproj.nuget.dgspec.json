@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\mathe\\OneDrive\\Documentos\\Estudos\\A1 - Cursos\\C#\\C#.csproj": {}
+    "C:\\Users\\mathe\\OneDrive\\Documentos\\Estudos\\A1 - Cursos\\CSharp\\C#.csproj": {}
   },
   "projects": {
-    "C:\\Users\\mathe\\OneDrive\\Documentos\\Estudos\\A1 - Cursos\\C#\\C#.csproj": {
+    "C:\\Users\\mathe\\OneDrive\\Documentos\\Estudos\\A1 - Cursos\\CSharp\\C#.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\mathe\\OneDrive\\Documentos\\Estudos\\A1 - Cursos\\C#\\C#.csproj",
+        "projectUniqueName": "C:\\Users\\mathe\\OneDrive\\Documentos\\Estudos\\A1 - Cursos\\CSharp\\C#.csproj",
         "projectName": "C#",
-        "projectPath": "C:\\Users\\mathe\\OneDrive\\Documentos\\Estudos\\A1 - Cursos\\C#\\C#.csproj",
+        "projectPath": "C:\\Users\\mathe\\OneDrive\\Documentos\\Estudos\\A1 - Cursos\\CSharp\\C#.csproj",
         "packagesPath": "C:\\Users\\mathe\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\mathe\\OneDrive\\Documentos\\Estudos\\A1 - Cursos\\C#\\obj\\",
+        "outputPath": "C:\\Users\\mathe\\OneDrive\\Documentos\\Estudos\\A1 - Cursos\\CSharp\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\mathe\\AppData\\Roaming\\NuGet\\NuGet.Config"
